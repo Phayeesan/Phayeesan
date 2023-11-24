@@ -2,7 +2,7 @@
 - 👀 What's my Interest? I’m interested in Cybersecurity...
 - 🌱 I’m currently learning Ethical Hacking and Penetration Testing
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me: twitter-- @phayeesan ✅ Linkedin>> @phayeesan
+- 📫 How to reach me: twitter-- @blvc_hybrid ✅
 
 <!---
 Phayeesan/Phayeesan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
